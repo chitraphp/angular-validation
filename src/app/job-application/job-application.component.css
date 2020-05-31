@@ -1,0 +1,15 @@
+label{
+    display: flex;
+    padding: 3px;
+  }
+  
+  input{
+    margin: 5px;
+  }
+  
+  .form-div{
+    display: flex;
+      justify-content: center;
+      border: solid 1px gray;}
+  
+  
